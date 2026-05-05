@@ -16,17 +16,19 @@ P.S: НИ В КОЕМ СЛУЧАЕ ЭТА РАБОТА И ВСЕ ПОСЛЕДУ�
 
 ## Структура проекта
 
+```
 HeroesApi/
 ├── Controllers/
-│   └── HeroesController.cs       # Контроллер с маршрутами
+│   └── HeroesController.cs
 ├── Models/
-│   └── Hero.cs                   # Модель героя с JSON-атрибутами
+│   └── Hero.cs
 ├── Data/
-│   └── HeroesStore.cs            # Хранилище данных в памяти
+│   └── HeroesStore.cs
 ├── Properties/
-│   └── launchSettings.json       # Настройки запуска
-├── Program.cs                    # Настройка JSON-сериализации
+│   └── launchSettings.json
+├── Program.cs
 └── HeroesApi.csproj
+```
 
 ## Запуск
 
