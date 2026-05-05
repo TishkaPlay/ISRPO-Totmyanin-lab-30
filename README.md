@@ -16,17 +16,7 @@ P.S: НИ В КОЕМ СЛУЧАЕ ЭТА РАБОТА И ВСЕ ПОСЛЕДУ�
 
 ## Структура проекта
 
-HeroesApi/
-├── Controllers/
-│   └── HeroesController.cs
-├── Models/
-│   └── Hero.cs
-├── Data/
-│   └── HeroesStore.cs
-├── Properties/
-│   └── launchSettings.json
-├── Program.cs
-└── HeroesApi.csproj
+![table1](struct.png)
 
 ## Запуск
 
